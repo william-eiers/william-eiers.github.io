@@ -19,7 +19,9 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-This is cool. I am just now writing this so will update shortly.
+My name is William Eiers, and I am an Assistant Professor of Computer Science at Stevens Institute of Technology in Hoboken, New Jersey, USA. I work in software engineering and software verification, working on tools and approaches for automatically verifying software, particularly in compute clouds (e.g, AWS, Google Cloud Platform, Microsoft Azure, etc). During my Ph.D., I focused on using quantitative techniques for verifying and repairing access control policies for the cloud using. I am currently looking into how Generative AI (large language models) can be used in the software verification and software engineering.
+
+I am currently looking to hire bright and motivated Ph.D. students to work with me at Stevens! If you are interested, please send me an email with your C.V. and short bio (weiers at stevens dot edu).
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
