@@ -7,5 +7,5 @@ nav: true
 nav_order: 5
 ---
 
-Spring 2024 - CS135 Discrete Structures
-Fall 2023 - CS385Q Algorithms
+* Spring 2024: CS135 Discrete Structures
+* Fall 2023: CS385Q Algorithms
